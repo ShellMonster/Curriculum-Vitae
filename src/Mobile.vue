@@ -145,8 +145,8 @@ html{
 * 2015-2016，浙江杭州，分期管家运营实习，曾搭建100+新媒体公号矩阵，自然引流；
 * 2016-2017，浙江杭州，分期管家ASO运营，负责金融马甲包上架，投放，于2017年率先分享[ivp6](https://blog.csdn.net/ShellM/article/details/72621427)及[4.3马甲](https://blog.csdn.net/ShellM/article/details/72293253)解决方案；
 * 2017-2019，浙江杭州，傲熠网络SO运营，负责金融马甲包上架，投放、负责公司机房搭建维护，测试投放策略；并于期间承接部分金融马甲包上架，投放优化等服务；
-* 2019.9-2019.11，北京，巨掌数据-分析师，负责ASO研究，数据分析，公司ASO技能培训；研究出App高覆盖策略，[1000-22000覆盖](https://www.qimai.cn/app/rank/appid/1443043163/country/cn)，[10000-35000覆盖](https://www.qimai.cn/app/keyword/appid/1071402253/country/cn)；
-* 2019.11-，北京，七麦数据-分析师，负责ASO研究，数据分析，公司ASO技能培训。
+* 2019.9-2019.11，北京，[巨掌数据](http://www.asoasm.com/)-分析师，负责ASO研究，数据分析，公司ASO技能培训；研究出App高覆盖策略，[1000-22000覆盖](https://www.qimai.cn/app/rank/appid/1443043163/country/cn)，[10000-35000覆盖](https://www.qimai.cn/app/keyword/appid/1071402253/country/cn)；
+* 2019.11-，北京，[七麦数据](https://www.qimai.cn/)-分析师，负责ASO研究，数据分析，公司ASO技能培训。
 
 个人技能
 ----
